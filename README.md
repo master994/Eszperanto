@@ -1,5 +1,3 @@
-Eszperanto
-==========
 /*
  *
  * Copyright (C) 2011, Bodrogi Krisztián
@@ -31,3 +29,8 @@ Eszperanto
  * Public License egy példányát; ha mégsem kapta meg, akkor
  * tekintse meg a <http://www.gnu.org/licenses/> oldalon.
  * Version history:
+ * 0.1 Alapfunkciók
+ * 0.2 win döntési mechanizmus módosítása
+ * 0.3 Kinézet módosítás
+ * 0.5 Végleges változat
+ */
